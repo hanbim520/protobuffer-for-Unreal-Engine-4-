@@ -1,0 +1,1 @@
+protoc.exe Person.proto --cpp_out=./

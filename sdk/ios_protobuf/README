@@ -1,0 +1,2 @@
+you will compile protobuffer for ios on MAC,Unreal doesn't support bitcode,so you need disable bitcode.
+the lib will be generate on obj forld.

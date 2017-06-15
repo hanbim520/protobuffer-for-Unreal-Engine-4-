@@ -1,0 +1,43 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (libprotobuf-lite.vcxproj, libprotobuf.vcxproj, protoc.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  code_generator.cc
+  command_line_interface.cc
+  cpp_enum.cc
+  cpp_enum_field.cc
+  cpp_extension.cc
+  cpp_field.cc
+  cpp_file.cc
+  cpp_generator.cc
+  cpp_helpers.cc
+  cpp_message.cc
+..\src\google\protobuf\compiler\cpp\cpp_message.cc(692): warning C4065: switch statement contains 'default' but no 'case' labels
+  cpp_message_field.cc
+  cpp_primitive_field.cc
+  cpp_service.cc
+  cpp_string_field.cc
+  java_context.cc
+  java_doc_comment.cc
+  java_enum.cc
+  java_enum_field.cc
+  java_extension.cc
+  java_field.cc
+  Generating Code...
+  Compiling...
+  java_file.cc
+  java_generator.cc
+  java_generator_factory.cc
+  java_helpers.cc
+  java_lazy_message_field.cc
+  java_message.cc
+  java_message_field.cc
+  java_name_resolver.cc
+  java_primitive_field.cc
+  java_service.cc
+  java_shared_code_generator.cc
+  java_string_field.cc
+  plugin.cc
+  plugin.pb.cc
+  python_generator.cc
+  subprocess.cc
+  zip_writer.cc
+  Generating Code...
+  libprotoc.vcxproj -> H:\Pro\protobuf-2.6.1\vsprojects\x64\Release\libprotoc.lib

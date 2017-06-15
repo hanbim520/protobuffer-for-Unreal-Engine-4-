@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (libprotoc.vcxproj, lite-test.vcxproj, protoc.vcxproj, tests.vcxproj, test_plugin.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  extension_set.cc
+  generated_message_util.cc
+  coded_stream.cc
+  zero_copy_stream.cc
+  zero_copy_stream_impl_lite.cc
+  message_lite.cc
+  repeated_field.cc
+  atomicops_internals_x86_msvc.cc
+  common.cc
+  once.cc
+  stringprintf.cc
+  wire_format_lite.cc
+  Generating Code...
+h:\pro\protobuf-2.6.1\src\google\protobuf\extension_set.cc(74): warning C4715: 'google::protobuf::internal::`anonymous namespace'::is_packable': not all control paths return a value
+  libprotobuf-lite.vcxproj -> H:\Pro\protobuf-2.6.1\vsprojects\Release\libprotobuf-lite.lib

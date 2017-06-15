@@ -1,0 +1,1 @@
+D:\Documents\Downloads\android-ndk-r10e\ndk-build -j5 NDK_MODULE_PATH=H:/Pro/
